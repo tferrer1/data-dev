@@ -1,0 +1,3 @@
+[submodule "miscellaneous-scripts"]
+	path = miscellaneous-scripts
+	url = git@github.com:tferrer1/miscellaneous-scripts.git
